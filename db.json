@@ -1,0 +1,61 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "tst",
+      "tech": "Sara Wilson",
+      "attention": true,
+      "date": "2020-04-25T14:49:19.882Z"
+    },
+    {
+      "message": "blog",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-04-25T13:26:43.429Z",
+      "id": 2
+    },
+    {
+      "message": "flocka",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-04-25T13:26:59.417Z",
+      "id": 3
+    },
+    {
+      "message": "whack",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2020-04-25T13:28:20.390Z",
+      "id": 4
+    },
+    {
+      "message": "swaggy p",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2020-04-25T14:49:04.570Z",
+      "id": 5
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstname": "John",
+      "lastname": "Doe"
+    },
+    {
+      "id": 2,
+      "firstname": "Sam",
+      "lastname": "Smith"
+    },
+    {
+      "id": 3,
+      "firstname": "Sara",
+      "lastname": "Wilson"
+    },
+    {
+      "firstname": "testboi",
+      "lastname": "ye",
+      "id": 5
+    }
+  ]
+}
